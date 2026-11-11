@@ -1,0 +1,201 @@
+{
+ "version": 1794351047,
+ "categories": [
+  {
+   "id": "animals",
+   "title": "Động vật"
+  },
+  {
+   "id": "food",
+   "title": "Đồ ăn"
+  },
+  {
+   "id": "nature",
+   "title": "Thiên nhiên"
+  },
+  {
+   "id": "objects",
+   "title": "Đồ vật"
+  }
+ ],
+ "levels": [
+  {
+   "id": "panda",
+   "title": "Gấu trúc",
+   "category": "animals",
+   "file": "levels/panda.png",
+   "sha256": "81401973d5a2ea7f88df68558825ad012b3dba2f29dc366ec4abdf4ef8e5982d",
+   "bytes": 1272,
+   "w": 58,
+   "h": 58
+  },
+  {
+   "id": "penguin",
+   "title": "Chim cánh cụt",
+   "category": "animals",
+   "file": "levels/penguin.png",
+   "sha256": "1497b626a3ddf9d2d1f98bf819f8445d5b544ea1f0dcbeab2dd7a18f436a8a00",
+   "bytes": 763,
+   "w": 46,
+   "h": 46
+  },
+  {
+   "id": "turtle",
+   "title": "Rùa biển",
+   "category": "animals",
+   "file": "levels/turtle.png",
+   "sha256": "dbd6d94aed01d2b5ae89d97b1689ffbf84cb8ac7295369999432308d3df59bfb",
+   "bytes": 1821,
+   "w": 83,
+   "h": 83
+  },
+  {
+   "id": "watermelon",
+   "title": "Dưa hấu",
+   "category": "food",
+   "file": "levels/watermelon.png",
+   "sha256": "6d3403b83a075d3bacf4e56a929fd9212839c52385af1f751b5ad29fdd84677a",
+   "bytes": 514,
+   "w": 38,
+   "h": 38
+  },
+  {
+   "id": "sushi",
+   "title": "Sushi",
+   "category": "food",
+   "file": "levels/sushi.png",
+   "sha256": "e3c9be06c27bd614cf34bf60d477957a2be041bee2b05b89529522f3fcb7531f",
+   "bytes": 935,
+   "w": 50,
+   "h": 50
+  },
+  {
+   "id": "icecream",
+   "title": "Kem ốc quế",
+   "category": "food",
+   "file": "levels/icecream.png",
+   "sha256": "378acfa9f6bec0fc90412e5f991f5b32309d7dc1e013e3944979ad53fa073e8f",
+   "bytes": 842,
+   "w": 47,
+   "h": 47
+  },
+  {
+   "id": "mushroom",
+   "title": "Nấm đỏ",
+   "category": "nature",
+   "file": "levels/mushroom.png",
+   "sha256": "a3a5779de34aee698229c59597d4cce92c0246c91df9ae583766d6bb3f55cc7f",
+   "bytes": 779,
+   "w": 42,
+   "h": 42
+  },
+  {
+   "id": "cactus",
+   "title": "Xương rồng",
+   "category": "nature",
+   "file": "levels/cactus.png",
+   "sha256": "9d95351fab6ecb1e9c7409d27def60bd0f1e66dd61e78105419416dea4016eab",
+   "bytes": 778,
+   "w": 50,
+   "h": 50
+  },
+  {
+   "id": "rainbow",
+   "title": "Cầu vồng",
+   "category": "nature",
+   "file": "levels/rainbow.png",
+   "sha256": "722c775bafcf82c2bc0eed13a12c3a8ac49227cff870188a8c119354be9adbd7",
+   "bytes": 716,
+   "w": 53,
+   "h": 53
+  },
+  {
+   "id": "camera",
+   "title": "Máy ảnh",
+   "category": "objects",
+   "file": "levels/camera.png",
+   "sha256": "daa77a4e565448f7883226caaeda60705a983acb8eeda836020f69e7d413fc4c",
+   "bytes": 715,
+   "w": 40,
+   "h": 40
+  },
+  {
+   "id": "guitar",
+   "title": "Đàn guitar",
+   "category": "objects",
+   "file": "levels/guitar.png",
+   "sha256": "cf0265b0e1fc758c7235bb8f16895c579913b167c4ca3203805d58534e557a92",
+   "bytes": 925,
+   "w": 64,
+   "h": 64
+  },
+  {
+   "id": "teapot",
+   "title": "Ấm trà",
+   "category": "objects",
+   "file": "levels/teapot.png",
+   "sha256": "e1f2e84e975d1e2e306d18d80e5ff7e3d153d1a13a9aa894916558d2c9e7bfd9",
+   "bytes": 1333,
+   "w": 72,
+   "h": 72
+  }
+ ],
+ "books": [
+  {
+   "id": "forest_friends",
+   "title": "Bạn nhỏ muôn loài",
+   "levels": [
+    "fox",
+    "panda",
+    "penguin",
+    "turtle"
+   ],
+   "reward": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "sweet_shop",
+   "title": "Tiệm đồ ngọt",
+   "levels": [
+    "cupcake",
+    "icecream",
+    "watermelon",
+    "sushi"
+   ],
+   "reward": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "garden",
+   "title": "Khu vườn nhỏ",
+   "levels": [
+    "sunflower",
+    "mushroom",
+    "cactus",
+    "rainbow"
+   ],
+   "reward": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "cozy_room",
+   "title": "Góc phòng xinh",
+   "levels": [
+    "rocket",
+    "camera",
+    "guitar",
+    "teapot"
+   ],
+   "reward": [
+    2,
+    2
+   ]
+  }
+ ]
+}
