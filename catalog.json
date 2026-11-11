@@ -1,5 +1,5 @@
 {
- "version": 1794366517,
+ "version": 1794368511,
  "categories": [
   {
    "id": "animals",
@@ -16,6 +16,10 @@
   {
    "id": "objects",
    "title": "Đồ vật"
+  },
+  {
+   "id": "festival",
+   "title": "Lễ hội"
   }
  ],
  "levels": [
@@ -458,6 +462,246 @@
    "bytes": 2900,
    "w": 72,
    "h": 72
+  },
+  {
+   "id": "tet_banhchung",
+   "title": "Bánh chưng",
+   "category": "festival",
+   "file": "levels/tet_banhchung.png",
+   "sha256": "4e1ffd2b3ed04c148d486a7de67d9c5690c8bb880cceb854d5187828f3806678",
+   "bytes": 2266,
+   "w": 57,
+   "h": 57
+  },
+  {
+   "id": "tet_hoamai",
+   "title": "Cành mai vàng",
+   "category": "festival",
+   "file": "levels/tet_hoamai.png",
+   "sha256": "ac4593025dce82b634401e62b659ebc7c539feab1b8a8462952cdca4922c8861",
+   "bytes": 2088,
+   "w": 77,
+   "h": 77
+  },
+  {
+   "id": "tet_lixi",
+   "title": "Bao lì xì",
+   "category": "festival",
+   "file": "levels/tet_lixi.png",
+   "sha256": "03c775dcf5ec16d353ab69f73c2fb811ce8ab79c2ef7cabe49e07db12d2be19c",
+   "bytes": 773,
+   "w": 45,
+   "h": 45
+  },
+  {
+   "id": "tet_phaohoa",
+   "title": "Pháo hoa",
+   "category": "festival",
+   "file": "levels/tet_phaohoa.png",
+   "sha256": "e110c33a1ee8891c086ea53e3cf8f93ea6260831886238b98223a1eba0a8a170",
+   "bytes": 3384,
+   "w": 82,
+   "h": 82
+  },
+  {
+   "id": "tet_hoadao",
+   "title": "Cành đào",
+   "category": "festival",
+   "file": "levels/tet_hoadao.png",
+   "sha256": "01c8fccf5ae5ef32dead36c928543745846cdc839f86a26d08ddf412b2c55c6e",
+   "bytes": 2172,
+   "w": 75,
+   "h": 75
+  },
+  {
+   "id": "tet_mamngu",
+   "title": "Mâm ngũ quả",
+   "category": "festival",
+   "file": "levels/tet_mamngu.png",
+   "sha256": "2ab4df2b1a195bd7aac66fa99b2c9419700f8886c2290bfe985e94c1a237e279",
+   "bytes": 2236,
+   "w": 80,
+   "h": 80
+  },
+  {
+   "id": "tt_denongsao",
+   "title": "Đèn ông sao",
+   "category": "festival",
+   "file": "levels/tt_denongsao.png",
+   "sha256": "95be5d8bd3bda7c2827e9ffe2f5c243726dfb67c0f5855638739c592f9ef3801",
+   "bytes": 2231,
+   "w": 82,
+   "h": 82
+  },
+  {
+   "id": "tt_banhtrungthu",
+   "title": "Bánh trung thu",
+   "category": "festival",
+   "file": "levels/tt_banhtrungthu.png",
+   "sha256": "2ee7f6e748f27e8a8417e4b5b545f47d38f4e94986e299adc78592e033699667",
+   "bytes": 1017,
+   "w": 41,
+   "h": 41
+  },
+  {
+   "id": "tt_tho_trang",
+   "title": "Thỏ ngọc",
+   "category": "festival",
+   "file": "levels/tt_tho_trang.png",
+   "sha256": "02532f1cd21374ef0caf967bc6c3659be0d73cd81e5c16b80109c5cc2b003e86",
+   "bytes": 1306,
+   "w": 67,
+   "h": 67
+  },
+  {
+   "id": "tt_daulan",
+   "title": "Đầu lân",
+   "category": "festival",
+   "file": "levels/tt_daulan.png",
+   "sha256": "ddebfd783296d2fcfe616cae8dfa8d74b25ffd3a4fbcfba73118bbe4f7659665",
+   "bytes": 3258,
+   "w": 83,
+   "h": 83
+  },
+  {
+   "id": "tt_den_kco",
+   "title": "Đèn kéo quân",
+   "category": "festival",
+   "file": "levels/tt_den_kco.png",
+   "sha256": "ade8571aa7e1493260615ec000a5f95b31f33ec2e156a9f51b0b6ab3621c6e74",
+   "bytes": 1439,
+   "w": 71,
+   "h": 71
+  },
+  {
+   "id": "tt_cuoi",
+   "title": "Chú Cuội",
+   "category": "festival",
+   "file": "levels/tt_cuoi.png",
+   "sha256": "790e50c72b3aa521837b42c4843f336e9ba791a25eb91335e544e9d9f5a55684",
+   "bytes": 3061,
+   "w": 75,
+   "h": 75
+  },
+  {
+   "id": "hw_pumpkin",
+   "title": "Bí ngô",
+   "category": "festival",
+   "file": "levels/hw_pumpkin.png",
+   "sha256": "3cb79cf1b77bef739080bdce70101f337f6fa6b3c2f85541ffd79331ba5e64b4",
+   "bytes": 849,
+   "w": 41,
+   "h": 41
+  },
+  {
+   "id": "hw_ghost",
+   "title": "Bóng ma",
+   "category": "festival",
+   "file": "levels/hw_ghost.png",
+   "sha256": "1ac81f3898fc6cb434c31b38e348d02b3618bf6025cd4dfef9cce84f0d253e2e",
+   "bytes": 509,
+   "w": 36,
+   "h": 36
+  },
+  {
+   "id": "hw_witchhat",
+   "title": "Mũ phù thuỷ",
+   "category": "festival",
+   "file": "levels/hw_witchhat.png",
+   "sha256": "81976b76aff46de6c333e7a158ee31739259b8dda9865d2444979818d0bb82d3",
+   "bytes": 636,
+   "w": 39,
+   "h": 39
+  },
+  {
+   "id": "hw_blackcat",
+   "title": "Mèo đen",
+   "category": "festival",
+   "file": "levels/hw_blackcat.png",
+   "sha256": "9bf253713fe41a019d594954b00e649c4da9f769b0a22a38ee6b557e53071d52",
+   "bytes": 946,
+   "w": 49,
+   "h": 49
+  },
+  {
+   "id": "hw_candy",
+   "title": "Kẹo Halloween",
+   "category": "festival",
+   "file": "levels/hw_candy.png",
+   "sha256": "50b00de26e03f4a4cfc6afb9317d77f4a087aee50194de36f8be5d548e9cb899",
+   "bytes": 1397,
+   "w": 53,
+   "h": 53
+  },
+  {
+   "id": "hw_bat",
+   "title": "Dơi nhỏ",
+   "category": "festival",
+   "file": "levels/hw_bat.png",
+   "sha256": "30e6025934bacc69d4cb080117d5a3ae670cc2bd9998bd65e991f5511b7e17b5",
+   "bytes": 1194,
+   "w": 70,
+   "h": 70
+  },
+  {
+   "id": "xm_tree",
+   "title": "Cây thông Noel",
+   "category": "festival",
+   "file": "levels/xm_tree.png",
+   "sha256": "fce6b1edd1e1d40a19d6c5947d544a8a7afc948361b350457f6223bcdd15d29a",
+   "bytes": 1743,
+   "w": 65,
+   "h": 65
+  },
+  {
+   "id": "xm_santa",
+   "title": "Ông già Noel",
+   "category": "festival",
+   "file": "levels/xm_santa.png",
+   "sha256": "e343a5df6f6dcb78e6b2753ac3843f47da88fd20ba4cd1b9a02e67c404418879",
+   "bytes": 1906,
+   "w": 71,
+   "h": 71
+  },
+  {
+   "id": "xm_reindeer",
+   "title": "Tuần lộc",
+   "category": "festival",
+   "file": "levels/xm_reindeer.png",
+   "sha256": "099325827fc183927486fb8d8be97db47f2edcb9964088b5c6713080a723db8a",
+   "bytes": 1046,
+   "w": 61,
+   "h": 61
+  },
+  {
+   "id": "xm_gift",
+   "title": "Hộp quà",
+   "category": "festival",
+   "file": "levels/xm_gift.png",
+   "sha256": "ab34cc107e85024117e4afbb7e0ba2779a80407c3cc63543abbfbb02cc3dbdcd",
+   "bytes": 675,
+   "w": 42,
+   "h": 42
+  },
+  {
+   "id": "xm_gingerbread",
+   "title": "Bánh gừng",
+   "category": "festival",
+   "file": "levels/xm_gingerbread.png",
+   "sha256": "cf46ec17b969590c00038a18786d16c0a5a3ef3ca6c25ab8e21a024ea33768fb",
+   "bytes": 809,
+   "w": 52,
+   "h": 52
+  },
+  {
+   "id": "xm_snowglobe",
+   "title": "Quả cầu tuyết",
+   "category": "festival",
+   "file": "levels/xm_snowglobe.png",
+   "sha256": "43ffacd0888b92935c2fbaa7093a9c803813fb478e0bcef170932479ed8179c3",
+   "bytes": 957,
+   "w": 42,
+   "h": 42
   }
  ],
  "books": [
@@ -627,6 +871,86 @@
    "reward": [
     2,
     2
+   ]
+  },
+  {
+   "id": "ev_tet",
+   "title": "Tết Nguyên Đán",
+   "levels": [
+    "tet_banhchung",
+    "tet_hoamai",
+    "tet_lixi",
+    "tet_phaohoa",
+    "tet_hoadao",
+    "tet_mamngu"
+   ],
+   "reward": [
+    3,
+    3
+   ],
+   "season": [
+    "01-15",
+    "02-25"
+   ]
+  },
+  {
+   "id": "ev_trungthu",
+   "title": "Tết Trung Thu",
+   "levels": [
+    "tt_denongsao",
+    "tt_banhtrungthu",
+    "tt_tho_trang",
+    "tt_daulan",
+    "tt_den_kco",
+    "tt_cuoi"
+   ],
+   "reward": [
+    3,
+    3
+   ],
+   "season": [
+    "09-01",
+    "09-30"
+   ]
+  },
+  {
+   "id": "ev_halloween",
+   "title": "Halloween",
+   "levels": [
+    "hw_pumpkin",
+    "hw_ghost",
+    "hw_witchhat",
+    "hw_blackcat",
+    "hw_candy",
+    "hw_bat"
+   ],
+   "reward": [
+    3,
+    3
+   ],
+   "season": [
+    "10-15",
+    "11-05"
+   ]
+  },
+  {
+   "id": "ev_christmas",
+   "title": "Giáng sinh",
+   "levels": [
+    "xm_tree",
+    "xm_santa",
+    "xm_reindeer",
+    "xm_gift",
+    "xm_gingerbread",
+    "xm_snowglobe"
+   ],
+   "reward": [
+    3,
+    3
+   ],
+   "season": [
+    "12-01",
+    "12-31"
    ]
   }
  ]
