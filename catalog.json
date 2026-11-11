@@ -1,5 +1,5 @@
 {
- "version": 1794351047,
+ "version": 1794366517,
  "categories": [
   {
    "id": "animals",
@@ -138,6 +138,326 @@
    "bytes": 1333,
    "w": 72,
    "h": 72
+  },
+  {
+   "id": "cat",
+   "title": "Mèo mướp",
+   "category": "animals",
+   "file": "levels/cat.png",
+   "sha256": "23c9809eceab99d5b79f14974d6d14a3735797454401528d8f63bad57ab2f219",
+   "bytes": 1147,
+   "w": 54,
+   "h": 54
+  },
+  {
+   "id": "bunny",
+   "title": "Thỏ trắng",
+   "category": "animals",
+   "file": "levels/bunny.png",
+   "sha256": "19ea15920549ae4ca7cf7c4f073ed592ed6ff0f39ec5192d2d2d8735d06bde64",
+   "bytes": 1157,
+   "w": 61,
+   "h": 61
+  },
+  {
+   "id": "owl",
+   "title": "Cú mèo",
+   "category": "animals",
+   "file": "levels/owl.png",
+   "sha256": "e575a147d4f810dab9ff62bf9415e965b481e762594e8e5eba789aa6370fdfe2",
+   "bytes": 1570,
+   "w": 53,
+   "h": 53
+  },
+  {
+   "id": "frog",
+   "title": "Ếch xanh",
+   "category": "animals",
+   "file": "levels/frog.png",
+   "sha256": "0701294c763b6c4078da241e3296eafcf2351f7203805a35d8e483cfb965b757",
+   "bytes": 774,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "id": "koala",
+   "title": "Gấu koala",
+   "category": "animals",
+   "file": "levels/koala.png",
+   "sha256": "74731e69202e65e84cde2425a3e83ecabde4b1e29561ddc31616427d0b61be55",
+   "bytes": 1605,
+   "w": 68,
+   "h": 68
+  },
+  {
+   "id": "dino",
+   "title": "Khủng long",
+   "category": "animals",
+   "file": "levels/dino.png",
+   "sha256": "681020354a5e12fcf0e317921d553d20bb070b5b76f4fd7d272ca93434806b33",
+   "bytes": 1084,
+   "w": 50,
+   "h": 50
+  },
+  {
+   "id": "whale",
+   "title": "Cá voi",
+   "category": "animals",
+   "file": "levels/whale.png",
+   "sha256": "7c349f96fd78eb973a33138d1cc1abee4063db6d99006478007f8bafcce4af97",
+   "bytes": 993,
+   "w": 55,
+   "h": 55
+  },
+  {
+   "id": "butterfly",
+   "title": "Bươm bướm",
+   "category": "animals",
+   "file": "levels/butterfly.png",
+   "sha256": "1ad64d2e6801fd7bc6ac3ecebcc88d400191c9d3936645349b37dd41fc2fbca3",
+   "bytes": 1707,
+   "w": 66,
+   "h": 66
+  },
+  {
+   "id": "donut",
+   "title": "Bánh donut",
+   "category": "food",
+   "file": "levels/donut.png",
+   "sha256": "fa2b9ed482bd80b28220f27de5c62120dee0d4a119756a990bb9c2718e9f2af8",
+   "bytes": 1083,
+   "w": 48,
+   "h": 48
+  },
+  {
+   "id": "pizza",
+   "title": "Pizza",
+   "category": "food",
+   "file": "levels/pizza.png",
+   "sha256": "e7f61c397ef7fdb7b124e167d752010267285e639d819074025111956dc6ede6",
+   "bytes": 1294,
+   "w": 53,
+   "h": 53
+  },
+  {
+   "id": "burger",
+   "title": "Hamburger",
+   "category": "food",
+   "file": "levels/burger.png",
+   "sha256": "a060af216f698f4a89fc0c7d2d9e0392d2346100f06eeea1f017a0ec55ad71c5",
+   "bytes": 966,
+   "w": 42,
+   "h": 42
+  },
+  {
+   "id": "strawberry",
+   "title": "Dâu tây",
+   "category": "food",
+   "file": "levels/strawberry.png",
+   "sha256": "c264cd1e1be581a5be83d43d3573f771c8427564874c94d9183e62f54e40f0f9",
+   "bytes": 1007,
+   "w": 56,
+   "h": 56
+  },
+  {
+   "id": "ramen",
+   "title": "Mì ramen",
+   "category": "food",
+   "file": "levels/ramen.png",
+   "sha256": "629bec2507db96e63e04e87cb65e1593f3d9a422b1994b3f83c6d2caf6db5d1c",
+   "bytes": 1450,
+   "w": 56,
+   "h": 56
+  },
+  {
+   "id": "bubbletea",
+   "title": "Trà sữa",
+   "category": "food",
+   "file": "levels/bubbletea.png",
+   "sha256": "fe2f4c5d1215a3c4c4878f3074d1b94f0716c980814ab8bff70d24eef9930167",
+   "bytes": 697,
+   "w": 40,
+   "h": 40
+  },
+  {
+   "id": "banhmi",
+   "title": "Bánh mì",
+   "category": "food",
+   "file": "levels/banhmi.png",
+   "sha256": "d25d85ec8718ad104124db5650e7a74e019363b93b1f5bafb80dc99779b01a59",
+   "bytes": 1852,
+   "w": 69,
+   "h": 69
+  },
+  {
+   "id": "avocado",
+   "title": "Bơ",
+   "category": "food",
+   "file": "levels/avocado.png",
+   "sha256": "07c9d37bfda9bceedbb99740d3cb81f079b46cfdffba12fb0d3c41b5c3b08eb2",
+   "bytes": 591,
+   "w": 44,
+   "h": 44
+  },
+  {
+   "id": "tulip",
+   "title": "Hoa tulip",
+   "category": "nature",
+   "file": "levels/tulip.png",
+   "sha256": "b7fea656f5039cce68870abdb28ee20c0c613d71244e343b9531d374f5e00009",
+   "bytes": 1108,
+   "w": 51,
+   "h": 51
+  },
+  {
+   "id": "mountain",
+   "title": "Núi tuyết",
+   "category": "nature",
+   "file": "levels/mountain.png",
+   "sha256": "369e65e2f338e99a9bfdc1e5947bf2e8c7044deec76abb5e2543e36e7e31428e",
+   "bytes": 1309,
+   "w": 71,
+   "h": 71
+  },
+  {
+   "id": "palm",
+   "title": "Đảo dừa",
+   "category": "nature",
+   "file": "levels/palm.png",
+   "sha256": "da1e2a84692420b83f4e2445b3c2eb119246fda595cc4e32711bcc4448152aa1",
+   "bytes": 1314,
+   "w": 63,
+   "h": 63
+  },
+  {
+   "id": "cherry_blossom",
+   "title": "Hoa anh đào",
+   "category": "nature",
+   "file": "levels/cherry_blossom.png",
+   "sha256": "2f617f895a381e3471c86bb6328cfbaa968438a8d91bd6393052d34f3f9b7c5f",
+   "bytes": 2636,
+   "w": 77,
+   "h": 77
+  },
+  {
+   "id": "sunflower_field",
+   "title": "Mặt trời mọc",
+   "category": "nature",
+   "file": "levels/sunflower_field.png",
+   "sha256": "70a77753744d43a2f8ebb4ea1e2114fb258fc7ae4c1c324fc3de6dd1e6a8cbfd",
+   "bytes": 1236,
+   "w": 74,
+   "h": 74
+  },
+  {
+   "id": "lotus",
+   "title": "Hoa sen",
+   "category": "nature",
+   "file": "levels/lotus.png",
+   "sha256": "c0c959a187596410b37b6c85b26f721483713f493e59f495092261487c316c83",
+   "bytes": 1556,
+   "w": 62,
+   "h": 62
+  },
+  {
+   "id": "snowman",
+   "title": "Người tuyết",
+   "category": "nature",
+   "file": "levels/snowman.png",
+   "sha256": "358afb5dd96f65e72765ef26572d0f1816a6281e97c297615f21ac099494f9a6",
+   "bytes": 1040,
+   "w": 60,
+   "h": 60
+  },
+  {
+   "id": "bonsai",
+   "title": "Cây bonsai",
+   "category": "nature",
+   "file": "levels/bonsai.png",
+   "sha256": "93a338b404e82adb8e034fe1046e2f294c044e97a2e92522fe977e5b69ee91ea",
+   "bytes": 2018,
+   "w": 64,
+   "h": 64
+  },
+  {
+   "id": "balloon",
+   "title": "Bóng bay",
+   "category": "objects",
+   "file": "levels/balloon.png",
+   "sha256": "69c0965a68eb303af7c4e90283b9edebb0e364ee5e755cbcd03d7ca2102baa11",
+   "bytes": 689,
+   "w": 50,
+   "h": 50
+  },
+  {
+   "id": "lantern",
+   "title": "Đèn lồng",
+   "category": "objects",
+   "file": "levels/lantern.png",
+   "sha256": "e6c0d0f06e701228568d8958f04228d73ece7c5c3b69bd5d3bf1caf713b82095",
+   "bytes": 1171,
+   "w": 81,
+   "h": 81
+  },
+  {
+   "id": "gamepad",
+   "title": "Tay cầm game",
+   "category": "objects",
+   "file": "levels/gamepad.png",
+   "sha256": "4d37774c01c1b45c6b5fecbfcd541a3f3c3b11670b869b2dbfa18819b5ff409e",
+   "bytes": 757,
+   "w": 51,
+   "h": 51
+  },
+  {
+   "id": "bicycle",
+   "title": "Xe đạp",
+   "category": "objects",
+   "file": "levels/bicycle.png",
+   "sha256": "41dab53c3db07c496e3e5c3385f6917ed41d4036f9e35b2f29fdc1defc12f88d",
+   "bytes": 1677,
+   "w": 71,
+   "h": 71
+  },
+  {
+   "id": "headphones",
+   "title": "Tai nghe",
+   "category": "objects",
+   "file": "levels/headphones.png",
+   "sha256": "86ab3feb73973ee0b0ae52f24d948d7146bf288534d06457afb748e36c38aedb",
+   "bytes": 980,
+   "w": 54,
+   "h": 54
+  },
+  {
+   "id": "hot_air",
+   "title": "Khinh khí cầu",
+   "category": "objects",
+   "file": "levels/hot_air.png",
+   "sha256": "4fd1df0f80ceca26bc1b3d4b2f4cbadadbb1b5fbb8236c761199cfeb533a63e6",
+   "bytes": 1458,
+   "w": 70,
+   "h": 70
+  },
+  {
+   "id": "ao_dai",
+   "title": "Nón lá",
+   "category": "objects",
+   "file": "levels/ao_dai.png",
+   "sha256": "1a3e7a699f01fa036345873fe14dd162397efd6177469d0faba96b707582e36d",
+   "bytes": 2120,
+   "w": 84,
+   "h": 84
+  },
+  {
+   "id": "treasure",
+   "title": "Rương báu",
+   "category": "objects",
+   "file": "levels/treasure.png",
+   "sha256": "6cabe39f0ba290cdb8c6e0cf93525643706ab71eab2c1261d43e6fa5afcf13d9",
+   "bytes": 2900,
+   "w": 72,
+   "h": 72
   }
  ],
  "books": [
@@ -191,6 +511,118 @@
     "camera",
     "guitar",
     "teapot"
+   ],
+   "reward": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "cute_pets",
+   "title": "Thú cưng đáng yêu",
+   "levels": [
+    "cat",
+    "bunny",
+    "frog",
+    "owl"
+   ],
+   "reward": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "wild_world",
+   "title": "Thế giới hoang dã",
+   "levels": [
+    "koala",
+    "dino",
+    "whale",
+    "butterfly"
+   ],
+   "reward": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "street_food",
+   "title": "Ăn vặt đường phố",
+   "levels": [
+    "banhmi",
+    "bubbletea",
+    "donut",
+    "burger"
+   ],
+   "reward": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "feast",
+   "title": "Bữa tiệc",
+   "levels": [
+    "pizza",
+    "ramen",
+    "strawberry",
+    "avocado"
+   ],
+   "reward": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "flowers",
+   "title": "Vườn hoa",
+   "levels": [
+    "tulip",
+    "cherry_blossom",
+    "lotus",
+    "bonsai"
+   ],
+   "reward": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "landscapes",
+   "title": "Phong cảnh",
+   "levels": [
+    "mountain",
+    "palm",
+    "sunflower_field",
+    "snowman"
+   ],
+   "reward": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "vietnam",
+   "title": "Hồn Việt",
+   "levels": [
+    "lantern",
+    "ao_dai",
+    "banhmi",
+    "lotus"
+   ],
+   "reward": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "fun_things",
+   "title": "Đồ chơi vui",
+   "levels": [
+    "balloon",
+    "gamepad",
+    "bicycle",
+    "hot_air"
    ],
    "reward": [
     2,
